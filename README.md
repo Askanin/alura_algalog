@@ -13,7 +13,10 @@ Nesse projeto foram desenvolvidos:
 
 Outras tecnologias usadas na API:
 
-*** Spring Boot/n
-*** Maven\n
+*** Spring Boot
+
+*** Maven
+
 *** MySQL
+
 *** Flyway (gerenciamento de arquivos no BD)
